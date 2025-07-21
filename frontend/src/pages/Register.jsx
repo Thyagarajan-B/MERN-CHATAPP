@@ -8,8 +8,8 @@ import {
   Text,
   useToast,
 } from "@chakra-ui/react";
-import { Link, useNavigate } from "react-router-dom";
 import { FiUserPlus } from "react-icons/fi";
+import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import axios from "axios";
 
