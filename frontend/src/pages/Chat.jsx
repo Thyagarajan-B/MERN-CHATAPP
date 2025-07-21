@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 const ENDPOINT = "http://localhost:5000";
 const token = localStorage.getItem("token")
 
+// This is the chat file
 const Chat = () => {
   const [selectedGroup, setSelectedGroup] = useState(null);
   const [socket, setSocket] = useState(null);
