@@ -26,11 +26,3 @@ A real-time chat application built using the **MERN (MongoDB, Express, React, No
 - Socket.io (for real-time communication)  
 - Nodemon (for backend auto-reloading)  
 
----
-
-## **Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/Thyagarajan-B/MERN-CHATAPP.git
-cd MERN-CHATAPP
